@@ -1,0 +1,6 @@
+add@updated@yes@String
+add@cs645@111@Integer
+add@Cursor Array@[12,"cs696",1678.9,{"map":{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}}]@Array
+add@Cursor Object@{"string":"summer","integer":678,"double":189.789,"array":{"arrayData":["grapes","strawberry","pine"]}}@Object
+add@Cursor Double@-34.4934@Double
+delete@getter@190@Integer

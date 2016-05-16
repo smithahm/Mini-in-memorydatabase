@@ -1,0 +1,86 @@
+add@updated@no@String
+add@cs645@100@Integer
+add@Cursor Int@777@Integer
+add@Cursor String@Assignment3@String
+add@Cursor Array@[12,"cs696",1678.9,{"map":{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}}]@Array
+add@Cursor Object@{"string":"summer","integer":678,"double":189.789,"array":{"arrayData":["grapes","strawberry","pine"]}}@Object
+add@Cursor Double@-34.4934@Double
+add@object value@{"string":"summer","integer":678,"double":189.789,"array":{"arrayData":["grapes","strawberry","pine"]}}@Object
+add@deleted@no@String
+add@cs545@900@Integer
+add@delete array@[12,"cs696",1678.9,{"map":{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}}]@Array
+add@Cursor Int@999@Integer
+add@Cursor String@Next Assignment4@String
+add@Cursor Double@89.989@Double
+add@Cursor Double@99.9999@Double
+add@Cursor String@Done@String
+add@Cursor String@Litchi@String
+add@updated@no@String
+add@cs645@100@Integer
+add@Cursor Int@777@Integer
+add@Cursor String@Assignment3@String
+add@Cursor Array@[12,"cs696",1678.9,{"map":{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}}]@Array
+add@Cursor Object@{"string":"summer","integer":678,"double":189.789,"array":{"arrayData":["grapes","strawberry","pine"]}}@Object
+add@Cursor Double@-34.4934@Double
+add@object value@{"string":"summer","integer":678,"double":189.789,"array":{"arrayData":["grapes","strawberry","pine"]}}@Object
+add@deleted@no@String
+add@cs545@900@Integer
+add@delete array@[12,"cs696",1678.9,{"map":{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}}]@Array
+add@array@[12,"cs696",1678.9,{"map":{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}}]@Array
+add@object@{"string":"summer","integer":678,"double":189.789,"array":{"arrayData":["grapes","strawberry","pine"]}}@Object
+add@int@19800@Integer
+add@double@-34.567@Double
+add@string@Oops Assignment@String
+add@getter@190@Integer
+add@updated@no@String
+add@cs645@89@Integer
+add@object value@[12,"cs696",1678.9,{"map":{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}}]@Array
+delete@deleted@no@String
+delete@cs545@900@Integer
+delete@delete array@[12,"cs696",1678.9,{"map":{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}}]@Array
+delete@empty@null@Object
+add@add undo@199@Integer
+delete@add undo@199@Integer
+add@updated@no@String
+add@cs645@100@Integer
+add@Cursor Int@777@Integer
+add@Cursor String@Assignment3@String
+add@Cursor Array@[12,"cs696",1678.9,{"map":{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}}]@Array
+add@Cursor Object@{"string":"summer","integer":678,"double":189.789,"array":{"arrayData":["grapes","strawberry","pine"]}}@Object
+add@Cursor Double@-34.4934@Double
+add@object value@{"string":"summer","integer":678,"double":189.789,"array":{"arrayData":["grapes","strawberry","pine"]}}@Object
+add@deleted@no@String
+add@cs545@900@Integer
+add@delete array@[12,"cs696",1678.9,{"map":{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}}]@Array
+add@updated@no@String
+add@cs645@100@Integer
+add@Cursor Int@777@Integer
+add@Cursor String@Assignment3@String
+add@Cursor Array@[12,"cs696",1678.9,{"map":{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}}]@Array
+add@Cursor Object@{"string":"summer","integer":678,"double":189.789,"array":{"arrayData":["grapes","strawberry","pine"]}}@Object
+add@Cursor Double@-34.4934@Double
+add@object value@{"string":"summer","integer":678,"double":189.789,"array":{"arrayData":["grapes","strawberry","pine"]}}@Object
+add@deleted@no@String
+add@cs545@900@Integer
+add@delete array@[12,"cs696",1678.9,{"map":{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}}]@Array
+add@history@gandhi@String
+add@algebra@-980.87@Double
+add@kannada@["grapes","strawberry","pine"]@Array
+add@geography@{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}@Object
+add@math@123@Integer
+add@fruit@litchi@String
+add@cost@1234@Integer
+add@weight@90.8765@Double
+add@fruit names@["grapes","strawberry","pine"]@Array
+add@cost object@{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}@Object
+add@history@lincoln@String
+add@kannada@890@Integer
+add@algebra@-812.35@Double
+delete@math@123@Integer
+delete@geography@{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}@Object
+delete@empty@null@Object
+delete@math@123@Integer
+delete@geography@{"third":-986.12,"second":9876,"fourth":"Integer","first":1234}@Object
+delete@kannada@["grapes","strawberry","pine"]@Array
+delete@algebra@-980.87@Double
+delete@history@gandhi@String
